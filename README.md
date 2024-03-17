@@ -74,6 +74,6 @@ YELLANURU MADASI PRANAY KUMAR
 
 **License:**
 
-This project is licensed under the [Your License] License - see the [LICENSE.md](link) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](l[ink](https://github.com/Pranaykumar30/British-Airways-Review-analysis/blob/main/LICENSE)https://github.com/Pranaykumar30/British-Airways-Review-analysis/blob/main/LICENSE) file for details.
 
 ---
